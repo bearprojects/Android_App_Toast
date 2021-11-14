@@ -6,4 +6,8 @@
 
 * Toast3與Toast4可以互相快速切換
 
+　　　
+* 安裝檔：AlertDialog.apk
+* Result
+
 ![image](https://github.com/bearprojects/Android_App_Toast/blob/7f5855810ef6f4bf820ff9e3f561be51f021daea/Toast.jpg)
